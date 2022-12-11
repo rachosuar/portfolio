@@ -164,13 +164,13 @@ const workExperiences = {
       date: " OCT 2022 – Present",
       desc: "Blockchain developer intership, where I worked in dfferent projects than involved:",
       descBullets: [
-        "- Create smart contracts (ERC-20, ERC-721, ERC-1155, among others)",
-        "- Create a DAO.",
-        "- Create dApps.",
-        "- Create of new ideas for startups and projects.",
-        "- Work in teams and pair programming.",
-        "- Work with Agile methodologies with Jira",
-        " -Technologies: Solidity, ReactJS, HardHat, Openzeppelin"
+        " Create smart contracts (ERC-20, ERC-721, ERC-1155, among others)",
+        " Create a DAO.",
+        " Create dApps.",
+        " Create of new ideas for startups and projects.",
+        " Work in teams and pair programming.",
+        " Work with Agile methodologies with Jira",
+        "Technologies: Solidity, ReactJS, HardHat, Openzeppelin"
       ]
     },
     {
@@ -180,12 +180,12 @@ const workExperiences = {
       date: " MAR 2006 – SEP 2022",
       desc: "17 years serving my country as a military tranasport aviator, during that time I've worked as:",
       descBullets: [
-        "- Military transport pilot (C-130 aircrafts)",
-        "- Operations Manager",
-        "- IT Manager",
-        "- Chief flight instructor.",
-        "- Antarctic air operations manager.",
-        "- Logistics Manager"
+        " Military transport pilot (C-130 aircrafts)",
+        " Operations Manager",
+        " IT Manager",
+        " Chief flight instructor.",
+        " Antarctic air operations manager.",
+        " Logistics Manager"
       ]
     }
   ]
