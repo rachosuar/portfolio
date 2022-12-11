@@ -47,7 +47,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "BLOCKCHAIN ENTHUSIAST WHO WANTS TO CREATE ON WEB 3.0",
+  subTitle:
+    "BLOCKCHAIN ENTHUSIAST WHO WANTS TO CREATE ON WEB 3.0 WITH THIS TOOLS:",
   skills: [
     emoji(
       "⚡ Develop secure and efficient Smart Contracts and beautiful and interactive dApps"
@@ -120,8 +121,7 @@ const educationInfo = {
       schoolName: "Instituto Universitario Aeronautico",
       logo: require("./assets/images/iua.png"),
       subHeader: "Bachelor on Air and Space Systems",
-      duration: "September 2006 - Julio 2011",
-      desc: "Participated in the research of XXX and published 3 papers."
+      duration: "September 2006 - Julio 2011"
     }
   ]
 };
