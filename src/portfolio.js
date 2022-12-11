@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/rachosuar",
   linkedin: "https://www.linkedin.com/in/juan-cruz-suarez/",
   gmail: "rachosuar@gmail.com",
-  twitter: "https://twitter/rachosuarez",
+  twitter: "https://twitter.com/rachosuarez",
 
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
