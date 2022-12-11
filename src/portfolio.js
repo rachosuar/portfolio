@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Juan Cruz Suarez",
+  username: "Juan C. Suarez",
   title: "Hi all, I'm Juan",
   subTitle: emoji(
     "A passionate Blockchain Developer 🚀 having experiences on building Web3.0 and dApps with Solidity / Reactjs / Nodejs  and some other cool libraries and frameworks."
