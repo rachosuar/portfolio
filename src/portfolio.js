@@ -203,8 +203,49 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
+  title: "Big Projects",
+  subtitle: "SOME PROJECTS I'VE BEEN WORKING ON",
+  projects: [
+    {
+      image: require("./assets/images/marketsentiment.gif"),
+      projectName: "Market Sentiment",
+      projectDesc:
+        "This is a market sentiment deployed on Mumbai Testnet. If you connect with your wallet you can interact with the front-end voting about how do you fell the market will be going. The project was deployed on an IPFS server. Skills: React, Solidity, Hardhat, ether.js, Metamask",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://lucky-violet-2028.on.fleek.co/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/krypt.gif"),
+      projectName: "Crypto Transfers",
+      projectDesc:
+        "In this project you can connect with a wallet on goerli network and make transactions, for every transaction you'll get a gif. ",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://krypto-peach.vercel.app/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/ewoltweet.gif"),
+      projectName: "Ewol Twitter",
+      projectDesc:
+        "This project was created with ReactJS, and is a web app that allows the user to create tweets. If the local storage is cleared the user will no longer exist and user will need to create a new user. For this project I used React and Firebase.. ",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://twitter-ewol.vercel.app/"
+        }
+      ]
+    }
+  ],
 
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
