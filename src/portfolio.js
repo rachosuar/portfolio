@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Blockchain Developer 🚀 having experiences on building Web3.0 and dApps with Solidity / Reactjs / Nodejs  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/17_XYPgRIXaEme0iDZDd6iccAkYU8WiWw/view?usp=drivesdk", // Set to empty to hide the button
+    "https://drive.google.com/file/d/18crVRwO7Qsv-RizG5Z_I3niZ-LhKeE3-/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -55,7 +55,7 @@ const skillsSection = {
     ),
     emoji("⚡ With a deep background on self-motivation and leading teams"),
     emoji(
-      "⚡ Work with the integration of services such as IPFS/ FLEEK / OPENZEPPELIN"
+      "⚡ With experience in DeFi, L2 Chains, Account Abstraction and Security"
     )
   ],
 
@@ -80,8 +80,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
     },
     {
       skillName: "css3",
@@ -122,6 +122,11 @@ const educationInfo = {
       logo: require("./assets/images/iua.png"),
       subHeader: "Bachelor on Air and Space Systems",
       duration: "September 2006 - Julio 2011"
+    },  {
+      schoolName: "Instituto Universitario Aeronautico",
+      logo: require("./assets/images/iua.png"),
+      subHeader: "Master Degree in Cyber Security",
+      duration: "January 2023 - "
     }
   ]
 };
@@ -139,15 +144,16 @@ const techStack = {
       Stack: "Blockchain Knowldage",
       progressPercentage: "80%"
     },
+     {
+      Stack: "Backend",
+      progressPercentage: "70%"
+    },
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
       progressPercentage: "80%" //Insert relative proficiency in percentage
-    },
-
-    {
-      Stack: "Backend",
-      progressPercentage: "60%"
     }
+
+   
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -158,10 +164,27 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Full-Stack / Blockchain Developer",
+      company: "SPHEREONE",
+      companylogo: require("./assets/images/sphere_logo.jpg"),
+      date: " DEC 2022 – Present",
+      desc: "Full-Stack developer oriented to blockchain technologies",
+      descBullets: [
+        " Investigatigate and create gasless transactions",
+        " Implementing Account Abstraction EIP-4337, on several networks (ETH,POL,OPT,ARB,BSC)",
+        " Creation of a bundler for the app that worked on the same networks",
+        " Runing bundlers on Dockers on GCP.",
+        " Integrating gaming networks like Immutable",
+        " Working with ZK networks",
+        " Working with different finance apps to imporve the product"
+        "Technologies: Typescript, Firbease, GCP, Docker, Solidity, ReactJS"
+      ]
+    },
+    {
       role: "Blockchain Developer Intern",
       company: "EWOL",
       companylogo: require("./assets/images/ewol_logo.jpg"),
-      date: " OCT 2022 – Present",
+      date: " OCT 2022 – DEC 2022",
       desc: "Blockchain developer intership, where I worked in dfferent projects than involved:",
       descBullets: [
         " Create smart contracts (ERC-20, ERC-721, ERC-1155, among others)",
