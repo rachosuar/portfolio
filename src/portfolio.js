@@ -176,7 +176,7 @@ const workExperiences = {
         " Runing bundlers on Dockers on GCP.",
         " Integrating gaming networks like Immutable",
         " Working with ZK networks",
-        " Working with different finance apps to imporve the product"
+        " Working with different finance apps to imporve the product",
         "Technologies: Typescript, Firbease, GCP, Docker, Solidity, ReactJS"
       ]
     },
