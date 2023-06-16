@@ -166,7 +166,7 @@ const workExperiences = {
     {
       role: "Full-Stack / Blockchain Developer",
       company: "SPHEREONE",
-      companylogo: require("./assets/images/sphere_logo.jpg"),
+      companylogo: require("./assets/images/sphere_logo.png"),
       date: " DEC 2022 – Present",
       desc: "Full-Stack developer oriented to blockchain technologies",
       descBullets: [
